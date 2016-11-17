@@ -1,0 +1,7 @@
+{
+	"description" : "Install Oracle OCI8 Ext",
+	"name" : "raphaelkross/heroku-install-oci8-ext",
+	"require": {
+		"php": ">=5.2.4",
+	}
+}

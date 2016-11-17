@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Always valid!
+echo "PHP OCI8"
+exit 0

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "Installing OCI8 Vrumm..."
+
+echo instantclient,$1/vendor/instantclient_12_1 | pecl install oci8 
